@@ -1,0 +1,36 @@
+body {
+        background-color:rgb(190, 184, 180);
+    }
+
+h1 {
+    color: brown; text-align: center;
+    }
+
+p {
+    font-size: 20px; text-align: justify;
+    }
+
+ul {
+    line-height: 2;
+    }
+
+.mengo {
+    border-radius: 20px;
+    }
+
+table {
+    border: 5px solid red;
+    background-color: rgb(6, 6, 6);
+    }
+
+th {
+    background-color: aquamarine;
+    }
+
+tr {
+    background-color: blue;
+    }
+
+a:hover{
+    filter: grayscale(100%);
+    }
